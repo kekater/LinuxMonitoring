@@ -48,4 +48,10 @@ Column background 1 = default (black)
 Column Font Color 1 = Default (White)
 Column background 2 = default (red)
 Column Font Color 2 = Default (Blue)
+```
+
+## 05: Bash script. 
+### The script is launched with one parameter.
+The parameter is an absolute or relative path to a directory. The parameter must end with "/", for example:
+`script05.sh /var/log/`
 
